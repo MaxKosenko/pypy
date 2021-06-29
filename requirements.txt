@@ -1,0 +1,14 @@
+cffi==1.14.5
+click==7.1.2
+Flask==1.1.2
+greenlet==0.4.13
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+pymongo==3.11.3
+readline==6.2.4.1
+Werkzeug==1.0.1
+flask-jwt==0.3.2
+flask-cors==3.0.10
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.12.2
